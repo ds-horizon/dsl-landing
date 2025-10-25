@@ -210,7 +210,7 @@ const Community = () => {
                   className="relative overflow-hidden group"
                 >
                   <a 
-                    href="https://github.com/orgs/dream-sports-labs/" 
+                    href="https://github.com/orgs/ds-horizon/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center gap-2"

@@ -13,7 +13,7 @@ interface GithubRepo {
 }
 
 const fetchGithubRepos = async (): Promise<GithubRepo[]> => {
-  const response = await fetch('https://api.github.com/orgs/dream-sports-labs/repos');
+  const response = await fetch('https://api.github.com/orgs/ds-horizon/repos');
   if (!response.ok) {
     throw new Error('Failed to fetch GitHub repositories');
   }

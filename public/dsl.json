@@ -5,15 +5,15 @@
       "title": "D11-react-native-fast-image",
       "description": "High performance React Native image component optimized for speed and efficiency.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/react-native-fast-image",
-      "docsUrl": "https://github.com/dream-sports-labs/react-native-fast-image#readme"
+      "githubUrl": "https://github.com/ds-horizon/react-native-fast-image",
+      "docsUrl": "https://github.com/ds-horizon/react-native-fast-image#readme"
     },
     {
       "id": 2,
       "title": "Marco",
       "description": "Tool to track and optimize app's performance with ease, providing insights for performance improvements.",
       "logoSrc": "/marco.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/marco",
+      "githubUrl": "https://github.com/ds-horizon/marco",
       "docsUrl": "https://marco.dreamsportslabs.com/project/quick-start/"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Checkmate",
       "description": "Tool to streamline test case management, making it easier to organize and execute tests efficiently.",
       "logoSrc": "/checkmate-light.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/checkmate",
+      "githubUrl": "https://github.com/ds-horizon/checkmate",
       "docsUrl": "https://checkmate.dreamsportslabs.com/project/introduction/"
     },
     {
@@ -29,16 +29,16 @@
       "title": "deFrost",
       "description": "Tool to detect frozen frames in React Native apps, helping improve user experience by identifying UI freezes.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/defrost",
-      "docsUrl": "https://github.com/dream-sports-labs/defrost#readme"
+      "githubUrl": "https://github.com/ds-horizon/defrost",
+      "docsUrl": "https://github.com/ds-horizon/defrost#readme"
     },
     {
       "id": 5,
       "title": "rn-benchmarking",
       "description": "A tool for benchmarking React Native applications to identify performance bottlenecks and optimize runtime efficiency.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/rn-benchmarking",
-      "docsUrl": "https://github.com/dream-sports-labs/rn-benchmarking#readme"
+      "githubUrl": "https://github.com/ds-horizon/rn-benchmarking",
+      "docsUrl": "https://github.com/ds-horizon/rn-benchmarking#readme"
     }
   ],
   "upcomingProjects": [
@@ -47,32 +47,32 @@
       "title": "DOTA",
       "description": "Helps in over the air updates for React Native applications, enabling seamless updates without app store submissions.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/dota",
-      "docsUrl": "https://github.com/dream-sports-labs/dota"
+      "githubUrl": "https://github.com/ds-horizon/dota",
+      "docsUrl": "https://github.com/ds-horizon/dota"
     },
     {
       "id": 2,
       "title": "INFER",
       "description": "Enables over the air delivery of lightweight ML models, bringing machine learning capabilities to mobile applications efficiently.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/infer",
-      "docsUrl": "https://github.com/dream-sports-labs/infer"
+      "githubUrl": "https://github.com/ds-horizon/infer",
+      "docsUrl": "https://github.com/ds-horizon/infer"
     },
     {
       "id": 3,
       "title": "Guardian",
       "description": "A comprehensive solution that helps in user authentication and security for mobile and web applications.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/guardian",
-      "docsUrl": "https://github.com/dream-sports-labs/guardian"
+      "githubUrl": "https://github.com/ds-horizon/guardian",
+      "docsUrl": "https://github.com/ds-horizon/guardian"
     },
     {
       "id": 4,
       "title": "Flash",
       "description": "Server-driven UI framework that allows dynamic UI updates without app releases, improving flexibility and user experience.",
       "logoSrc": "/placeholder.svg",
-      "githubUrl": "https://github.com/dream-sports-labs/flash",
-      "docsUrl": "https://github.com/dream-sports-labs/flash"
+      "githubUrl": "https://github.com/ds-horizon/flash",
+      "docsUrl": "https://github.com/ds-horizon/flash"
     }
   ],
   "about": {
@@ -137,8 +137,8 @@
       "id": 2,
       "title": "Open Source Contributions",
       "description": "Active contributions to various open source projects in the React Native ecosystem.",
-      "repo": "dream-sports-labs",
-      "link": "https://github.com/orgs/dream-sports-labs/"
+      "repo": "ds-horizon",
+      "link": "https://github.com/orgs/ds-horizon/"
     },
     {
       "id": 3,
@@ -160,7 +160,7 @@
       "id": 1,
       "label": "GitHub",
       "icon": "Github",
-      "href": "https://github.com/orgs/dream-sports-labs/"
+      "href": "https://github.com/orgs/ds-horizon/"
     },
     {
       "id": 2,
@@ -188,7 +188,7 @@
       "partner": "React Native Community",
       "description": "FastImage is a React Native component for displaying images with better performance, handling caching, and controlling priority.",
       "logoSrc": "/placeholder.svg",
-      "url": "https://github.com/dream-sports-labs/react-native-fast-image",
+      "url": "https://github.com/ds-horizon/react-native-fast-image",
       "contributors": 12,
       "stars": 248,
       "pullRequests": 256,
@@ -200,7 +200,7 @@
       "partner": "Open Source Community",
       "description": "A framework that helps developers to generate network mocks for their projects, improving testing and development workflows.",
       "logoSrc": "/placeholder.svg",
-      "url": "https://github.com/dream-sports-labs/marco",
+      "url": "https://github.com/ds-horizon/marco",
       "contributors": 12,
       "stars": 76,
       "pullRequests": 28,
@@ -212,7 +212,7 @@
       "partner": "Open Source Community",
       "description": "A tool that helps verify and validate application behavior and configurations across different environments.",
       "logoSrc": "/placeholder.svg",
-      "url": "https://github.com/dream-sports-labs/checkmate",
+      "url": "https://github.com/ds-horizon/checkmate",
       "contributors": 8,
       "stars": 42,
       "pullRequests": 16,
@@ -224,19 +224,19 @@
       "id": 1,
       "title": "deFrost",
       "description": "A tool to improve React Native loading times and user experience by optimizing startup processes.",
-      "url": "https://github.com/dream-sports-labs/defrost"
+      "url": "https://github.com/ds-horizon/defrost"
     },
     {
       "id": 2,
       "title": "rn-benchmarking",
       "description": "A tool for benchmarking React Native applications to identify performance bottlenecks and optimization opportunities.",
-      "url": "https://github.com/dream-sports-labs/rn-benchmarking"
+      "url": "https://github.com/ds-horizon/rn-benchmarking"
     }
   ],
   "hero": {
     "title": "Open Source by Dream11",
     "description": "DreamSportsLabs is Dream11's umbrella for all open source initiatives and community engagement, fostering innovation in tech.",
-    "githubUrl": "https://github.com/dream-sports-labs",
+    "githubUrl": "https://github.com/ds-horizon",
     "projectsUrl": "#featured-projects"
   }
 }

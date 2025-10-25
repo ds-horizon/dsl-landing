@@ -68,7 +68,7 @@ const Navbar = () => {
             )
           ))}
           <a
-            href="https://github.com/dream-sports-labs"
+            href="https://github.com/ds-horizon"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
