@@ -12,7 +12,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://dream-sports-labs.github.io/dsl-landing/",
+  "homepage": "https://ds-horizon.github.io/dsl-landing/",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
